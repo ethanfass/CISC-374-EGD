@@ -153,8 +153,9 @@ Replace this with a one sentence pitch for your game. Pretend that your were pit
 - Textures:
   - *The game will be solely 2d background with hitboxes for click*
 - Environment Art/Textures:
+  - *A drawn version of something like this*
 ![dingy office](https://i.pinimg.com/originals/72/34/57/723457bb89e16a8cebeeaee32fc91ee4.jpg)
-
+  - *The player will be using a computer like this*
 ![90s computer](https://cdn.renderhub.com/face-the-edge/90s-pc-desktop-style-01/90s-pc-desktop-style-01-01.jpg)
 
 
