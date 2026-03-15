@@ -148,16 +148,14 @@ Replace this with a one sentence pitch for your game. Pretend that your were pit
 - Characters List
   - *Player (first person)*
   - *Random Coworkers*
-  - *Cheif*
+  - *Chief*
   - *Security*
 - Textures:
-  - *Texture 1*
-  - *Texture 2*
-  - *...*
+  - *The game will be solely 2d background with hitboxes for click*
 - Environment Art/Textures:
-  - *Environment Texture 1*
-  - *Environment Texture 2*
-  - *...*
+![dingy office](https://i.pinimg.com/originals/72/34/57/723457bb89e16a8cebeeaee32fc91ee4.jpg)
+
+![90s computer](https://cdn.renderhub.com/face-the-edge/90s-pc-desktop-style-01/90s-pc-desktop-style-01-01.jpg)
 
 
 ## Audio
