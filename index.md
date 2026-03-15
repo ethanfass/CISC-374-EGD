@@ -135,7 +135,7 @@ Replace this with a one sentence pitch for your game. Pretend that your were pit
 
 ## Storyboarding
 
-![storyboard](https://drive.google.com/file/d/15SGFN7LOUvG__boDRv6xDXp-soFVYPpI/view?usp=sharing)
+![storyboard](EmailsPleaseMock.jpg)
 
 # Assets Needed
 
