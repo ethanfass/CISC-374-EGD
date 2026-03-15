@@ -141,14 +141,15 @@ Replace this with a one sentence pitch for your game. Pretend that your were pit
 
 ## Aethestics
 
-*Give a sense of the aesthetics of your game, the spirit and atmosphere. Use descriptive, evocative words that can help the reader understand the emotional response of your game.*
+*The game will be set in a dingy run down corner office in a small detective center downtown in the mid 90s. The room will feel dusty and old, the fan slowly spinning and creaking, rays of yellow light will shine through the windows and change as the day goes forward. Coworkers will come in throughout the day to make small talk, drop off important files, or reprimand you for making an incorrect decision. The 2d background will either be hand drawn or pixel art.*
 
 ## Graphical
 
 - Characters List
-  - *Characters 1*
-  - *Characters 2*
-  - *...*
+  - *Player (first person)*
+  - *Random Coworkers*
+  - *Cheif*
+  - *Security*
 - Textures:
   - *Texture 1*
   - *Texture 2*
@@ -165,14 +166,14 @@ Replace this with a one sentence pitch for your game. Pretend that your were pit
 *Game region/phase/time are ways of designating a particularly important place in the game.*
 
 - Music List (Ambient sound)
-  - *Game region/phase/time*: *Example 1*, *Example 2*
-  - *Game region/phase/time*: *Example 3*, *Example 4*
+  - *Sitting at desk*: *https://www.youtube.com/watch?v=6-_oEkN1W5s*, *https://www.youtube.com/watch?v=eH-_GMhH-kk*
+  - *Shop*: *https://www.youtube.com/watch?v=HV6sYbGqCxI&t=3573s*
   
 *Game Interactions are things that trigger SFX, like character movement, hitting a spiky enemy, collecting a coin.*
 
 - Sound List (SFX)
-  - *Game Interaction*: *Example 1*, *Example 2*
-  - *Game Interaction*: *Example 3*, *Example 4*
+  - *Clicking on compiter, emails, responding*: *https://www.epidemicsound.com/sound-effects/tracks/a3d66b9e-560f-47d2-a25a-c72763944d4a/*, *https://www.epidemicsound.com/sound-effects/tracks/98fca212-6ea7-417b-bab1-c482d79893e8/*
+  - *Looking through files (physical)*: *https://www.epidemicsound.com/sound-effects/tracks/447060c0-df0a-4085-a73f-5c4209280e0e/*, *https://www.epidemicsound.com/sound-effects/tracks/f474d945-02b7-4f36-b023-c172f15b1d6d/*
 
 
 # Metadata
