@@ -131,11 +131,11 @@ Replace this with a one sentence pitch for your game. Pretend that your were pit
 
 ## Story (Brief)
 
-*The Summary or TL;DR version of below*
+*Youa are working at a detective agency in the mid 90s and you are tasked with sorting through incoming emails to and from within the agency to determine whether they are phishing, spam, official, or malicious. Through this a mystery of some sort will be uncovered as you gain information through files, emails, and hushed conversations.*
 
 ## Storyboarding
 
-*Go into as much detail as needs be to visually convey the Dynamics of your game. Be detailed. Create storyboards and freeze frame images that concisely capture important key elements of your game. You are strongly recommended to sketch pictures on paper and embed them here. Be sure make it clear how previously-described mechanics come through in the dynamics.*
+![storyboard](https://drive.google.com/file/d/15SGFN7LOUvG__boDRv6xDXp-soFVYPpI/view?usp=sharing)
 
 # Assets Needed
 
