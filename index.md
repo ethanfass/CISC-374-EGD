@@ -193,7 +193,7 @@ The learning content should be introduced gradually through the emails themselve
 *Game region/phase/time are ways of designating a particularly important place in the game.*
 
 - Music List (Ambient sound)
-  - *Sitting at desk*: *https://www.youtube.com/watch?v=6-_oEkN1W5s*, *https://www.youtube.com/watch?v=eH-_GMhH-kk*
+  - *Sitting at desk*: *https://www.youtube.com/watch?v=eH-_GMhH-kk*, *https://www.youtube.com/watch?v=6-_oEkN1W5s*, *https://www.youtube.com/watch?v=eH-_GMhH-kk*
   - *Shop*: *https://www.youtube.com/watch?v=HV6sYbGqCxI&t=3573s*
   - *Tense moments / blackout / story reveal*: *low ambient drone or suspenseful office background audio*
   
