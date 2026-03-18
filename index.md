@@ -60,6 +60,36 @@ Assessment Question #5: Can the student identify generic emails if present in th
 Assessment Question #6: Can the student identify grammar mistakes in an email if any. 
 Assessment Question #7: Can the student correctly report/block phishing emails. 
 
+Example phishing email:
+---------------------------------------------------------------------------------------
+To: companyaccount@outhouse.com
+---------------------------------------------------------------------------------------
+From: veryrealsupportdesk@outhouse.com
+---------------------------------------------------------------------------------------
+Dear User,
+
+Your company bank account has been charge for $1,829 and we are wondering if this is a scam. Please address if this is correct at our website https.scamlikely.com.
+
+- Bank America
+---------------------------------------------------------------------------------------
+
+
+
+Real email example:
+---------------------------------------------------------------------------------------
+To: companyaccount@outhouse.com
+---------------------------------------------------------------------------------------
+From: jasonvorkees@outhouse.com
+---------------------------------------------------------------------------------------
+To company account,
+
+I heard you guys are a very reputable intelligence agency. I believe that I am being targeted by some folks. Please contact when you can about if you guys can solve this and the rates.
+
+-Sincerely,
+ Jason vorkees
+
+---------------------------------------------------------------------------------------
+
 Rubric:
 #1: 0 points if student incorrectly identifies whether the sender is appropriate for an email, 10 points otherwise.
 #2: 0 points if identifies incorrectly, 10 points if the student correctly identifies if the link(s)'s names are appropriate/inappropriate.
