@@ -90,15 +90,53 @@ I heard you guys are a very reputable intelligence agency. I believe that I am b
 
 ---------------------------------------------------------------------------------------
 
-Rubric:
-#1: 0 points if student incorrectly identifies whether the sender is appropriate for an email, 10 points otherwise.
-#2: 0 points if identifies incorrectly, 10 points if the student correctly identifies if the link(s)'s names are appropriate/inappropriate.
-#3: 0 points if the student incorrectly identify the domains of any links are appropriate/inappropriate for the links/email, 10 points otherwise.
-#4: 0 points if the student incorrectly identifies appropriate/appropriate phone numbers associated with the email, 10 points otherwise.
-#5: 0 points if the student incorrectly identifes if the email's opening is generic or not, 5 points otherwise.
-#6: 0 points if the student incorrectly identifies grammar mistakes if any in the email, 5 points otherwise.
-#7: 0 points if the student incorrectly reports/block or doesn't report/block an email, 10 points otherwise.
-Total: 60 points
+1. Sender
+    - Display name matches email address
+    - Email/domain matches the claimed sender
+    - Sender information looks normal and expected
+        - The sender is not pretending to be someone else
+        - The email address fits the person or company named
+        - The sender does not look random or unrelated
+2. Links
+    - Links go where the email says they go
+        - The visible link matches the destination
+        - The destination fits the action requested in the email
+    - Links are relevant to the message
+        - The links match the topic of the email
+        - The email does not include unrelated links
+    - Links do not look misleading or suspicious
+        - The link is not hiding a different destination
+        - The link does not use strange wording, misspellings, or shortened URLs in a suspicious way
+3. Domains
+    - Domain is spelled correctly
+        - The domain has no obvious typos or extra characters
+    - Domain matches the real organization
+        - The domain belongs to the company or sender being claimed
+    - Domain is not a lookalike/fake version
+        - The domain is not a slight variation of a real one
+        - The domain is not using misleading subdomains
+4. Phone numbers
+    - Phone number matches the claimed sender
+        - The number fits the person or organization named in the email
+    - Number looks normal and relevant
+        - The number makes sense for the message
+    - Number is not suspicious or unrelated
+        - The email is not pushing the user to call an unfamiliar number without reason
+5. Generic emails
+    - Generic/personal email addresses are identified
+        - The student notices free email providers like Gmail or Yahoo if present
+    - Student notes when a company should have used an official domain
+        - The student flags personal email addresses when an official company email would be expected
+6. Grammar
+    - Obvious grammar/spelling mistakes are identified
+        - The student notices clear spelling or grammar errors
+    - Tone and wording seem professional and appropriate
+        - The email does not sound oddly urgent, threatening, or unprofessional
+7. Reporting/blocking
+    - Student knows whether the email should be reported or blocked
+        - The student recognizes when the email should be treated as phishing or spam
+    - Student avoids unsafe actions like clicking or replying
+        - The student does not click links, reply, or call suspicious numbers
 
 # What sets this project apart?
 
