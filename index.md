@@ -45,50 +45,65 @@ This game could be used in an introductory cybersecurity course, a digital liter
 
 ## Prerequisite Knowledge
 
--Prerequisite Learning Objective #1: Students should be able to demonstrate traversal of their emails 
--Prerequisite Learning Objective #2: Students should be to recite what a phishing email is.
--Prerequisite Learning Objective #3: Students should be able to identify sender of an email.
--Prerequisite Learning Objective #4: Students should be able to identify links, numbers, etc in a email.
+- Prerequisite Learning Objective #1: Students should be able to demonstrate traversal of their emails 
+- Prerequisite Learning Objective #2: Students should be to recite what a phishing email is.
+- Prerequisite Learning Objective #3: Students should be able to identify sender of an email.
+- Prerequisite Learning Objective #4: Students should be able to identify links, numbers, etc in a email.
 
 ## Assessment Measures
 
-Assessment Question #1: Can the student correctly identify sender of an email is appropiate. 
-Assessment Question #2: Can the student identify if any links in the email go the appropiate sites. 
-Assessment Question #3: Can the student identify if if the links in an email have the appropriate domains.
-Assessment Question #4: Can the student identify if any phone numbers are appropriate with the email sent.
-Assessment Question #5: Can the student identify generic emails if present in the email.
-Assessment Question #6: Can the student identify grammar mistakes in an email if any. 
-Assessment Question #7: Can the student correctly report/block phishing emails. 
+### Email Example #1 
+___  
+To: johnsmith@company.org  
+___  
+From: secur1ty@funtown.xyz  
+___  
+Dear User,  
+  
+Your company bank account has been charge for $1,829 and we are wondering if this is a scam. Please address urgently.
+  
+Bank America  
+___  
 
-Example phishing email:
----------------------------------------------------------------------------------------
-To: companyaccount@outhouse.com
----------------------------------------------------------------------------------------
-From: veryrealsupportdesk@outhouse.com
----------------------------------------------------------------------------------------
-Dear User,
+### Follow up Questions:
 
-Your company bank account has been charge for $1,829 and we are wondering if this is a scam. Please address if this is correct at our website https.scamlikely.com.
+Is the sender from a valid source?
+- No, the username secur1ty utilizes typosquatting to mimic a real security email. The mail server is also not official as "funtown" isn't a real thing. Lastly, the domain .xyz is suspicious since it's a TLD (low-cost-domain), which are commonly used by attackers.
 
-- Bank America
----------------------------------------------------------------------------------------
+Does the content of the email seem malicious?
+- Yes it does as the email is requesting a payment, and it's especially suspicious if you haven't recieved anything from this email before. They also are pressuring the recipient by stating that they should act urgently.
 
+Given what you've deduced from this email, what are the next steps?
+- Flag the email as suspicious and send it off to the security team. Include a short tidbit about the email assisnt the security team to quickly find the problem.
 
+### Email Example #2  
+___ 
+To: johnsmith@company.org
+___  
+From: johnnylayerman27@morganandmorgan.net
+___  
+To company account,  
 
-Real email example:
----------------------------------------------------------------------------------------
-To: companyaccount@outhouse.com
----------------------------------------------------------------------------------------
-From: jasonvorkees@outhouse.com
----------------------------------------------------------------------------------------
-To company account,
+I heard you guys are a very reputable intelligence agency. I believe that I am being targeted by some folks. Please contact me if you guys can solve this. I've included a document which further discusses my situation
+  
+-Sincerely,  
+ Jason vorkees  
+___  
+attachment.pdf  
+___  
 
-I heard you guys are a very reputable intelligence agency. I believe that I am being targeted by some folks. Please contact when you can about if you guys can solve this and the rates.
+### Follow up Questions:
 
--Sincerely,
- Jason vorkees
+Is the sender from a valid source?
+- The username is normal as its just a name followed by some numbers. The mail server is morganandmorgan which is a verifiable source if checked online, could even do additional research into the lawyers name. Lastly the .net domain contains nothing suspicious.
 
----------------------------------------------------------------------------------------
+Does the content of the email seem malicious?
+- The email talks about wanting legal help which matches the layer email address. There aren't any gramatical errors and the attached document.
+
+What should you do about the attachment?
+- Open up an isolated browser to act as a sandbox to open the file and test it. If suspicious activity is recorded, such as imbedded executables or malicious javascript, immediately flag the email as phishing and send it off to the security team. If nothing is found continue investigation as normal.
+
+### Breakdown of Email (what could be suspicious)
 
 1. Sender
     - Display name matches email address
@@ -140,11 +155,11 @@ I heard you guys are a very reputable intelligence agency. I believe that I am b
 
 # What sets this project apart?
 
--Reason 1: This game has an office setting to immerse the user in a realistic environment they may be in. 
--Reason 2: This game has extensive amount of emails that will prep the player with real world phishing schemes.
--Reason 3: This game has immersive audio that will ease the player into the fictional environment while also not distract them.
--Reason 4: This game will have tutorials that will demonstrate phishing email identifiers.
--Reason 5: The game will have an interesting story to keep the user entertained along with the game.
+- Reason 1: This game has an office setting to immerse the user in a realistic environment they may be in. 
+- Reason 2: This game has extensive amount of emails that will prep the player with real world phishing schemes.
+- Reason 3: This game has immersive audio that will ease the player into the fictional environment while also not distract them.
+- Reason 4: This game will have tutorials that will demonstrate phishing email identifiers.
+- Reason 5: The game will have an interesting story to keep the user entertained along with the game.
 
 # Player Interaction Patterns and Modes
 
